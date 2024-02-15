@@ -9,7 +9,7 @@ def predict_value(x):
     # Create a linear regression model
     model = LinearRegression()
 
-    # Fit the model to the data
+    # Fit the model to the dataa
     model.fit(X, y)
 
     # Predict using the trained model
